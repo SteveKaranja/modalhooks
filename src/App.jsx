@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h1>Hey, ever heard of a modal?</h1>
       <p>A modal is a content box that is displayed on top of all other contents, while putting an overlay.</p>
-      <p>By Steve Karanja</p>
+      <p>By Stephen Karanja</p>
       <p><a href="https://linkedin.com/in/stevekaranja" target="_blank">Linkedin</a> | <a href="https://virtualoffice.co.ke" target="_blank">Virtual Office Point</a> | <a href="https://stevekaranja.medium.com" target="_blank">Medium</a></p>
       <button className="openModalBtn" onClick={() => {setModalOpen(true)}}>
         Open
